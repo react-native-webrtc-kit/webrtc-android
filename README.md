@@ -33,7 +33,7 @@ libwebrtc (webrtc.org) のコードは webrtc.org のライセンス、
 - https://webrtc.googlesource.com/src/+/master/PATENTS
 
 releases, jitpack.io で配布する libwebrtc の AAR バイナリのライセンスは、
-releases にある `THIRD_PARTY_LICENSES.md` を参照して下さい。
+releases にある `NOTICE` を参照して下さい。
 
 
 ## リリース方法 (開発者向け)
